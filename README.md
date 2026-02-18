@@ -1,16 +1,16 @@
-# ![header](https://capsule-render.vercel.app/render?type=waving&color=pink&height=200&section=header&text=Hello,%20Syeoniism!&fontSize=70)
+# ![header](https://capsule-render.vercel.app/render?type=waving&color=pink&height=150&section=header&text=Welcome%20to%20Syeoni's%20Space!&fontSize=50)
 
-### 💻 About Me
-- 🎓 **Pusan National University** | Computer Science and Engineering (2nd Year)
-- 📢 **PR Head** of the CSE Student Council
-- 🎨 Interested in **Computer Graphics, HCI, and UI/UX Design**
+### 🎓 About Me
+- 🏫 **부산대학교 정보컴퓨터공학부** 컴퓨터공학전공 (2학년 재학 중)
+- 📢 **정보컴퓨터공학부 학생회 홍보부장**
 
-### 🛠 Tech Stacks
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/UI/UX-FF69B4?style=flat-square&logo=adobe-xd&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+### 📬 Contact & Link
+- 📧 **Mail** : [seoyeon5442@pusan.ac.kr](mailto:seoyeon5442@pusan.ac.kr)
+- 📝 **Blog** : [서연의 블로그 바로가기](https://blog.naver.com/padoobaq)
+- 📸 **Instagram** : [@syeonismm](https://www.instagram.com/syeonismm)
 
-### 🚀 Ongoing Projects
-- **morb (moment orb)**: A mobile app for recording emotions, developed with React Native.
+### 🛠 Tech Stacks (Interest)
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/UI/UX Design-FF69B4?style=flat-square&logo=adobe-xd&logoColor=white">
 
-### 📊 GitHub Stats
-![Syeoni's stats](https://github-readme-stats.vercel.app/api?username=syeoniism&show_icons=true&theme=rose)
+---
+![Syeoni's github stats](https://github-readme-stats.vercel.app/api?username=syeoniism&show_icons=true&theme=rose)
