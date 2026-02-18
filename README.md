@@ -31,12 +31,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,cpp,figma" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syeoniism&show_icons=true&theme=rose&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeoniism&layout=compact&theme=rose&hide_border=true"/>
-</p>
+>
