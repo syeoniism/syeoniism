@@ -1,10 +1,4 @@
-<h1 align="center">👩🏻‍💻 김서연</h1>
-<p align="center">
-  부산대학교 정보컴퓨터공학부 컴퓨터공학전공 <br/>
-  AI & Software Engineering
-</p>
-
----
+<h1 align="center">안녕하세여읭!</h1>
 
 ## 🎓 About Me
 - 🏫 부산대학교 정보컴퓨터공학부 컴퓨터공학전공
