@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/render?type=waving&color=pink&height=150&section=header&text=Welcome%20to%20Syeoni's%20Space!&fontSize=50)
+# ![header](https://capsule-render.vercel.app/render?type=waving&color=pink&height=150&section=header&text=Welcome%20to%20Syeoni%20Space&fontSize=50)
 
 ### 🎓 About Me
 - 🏫 **부산대학교 정보컴퓨터공학부** 컴퓨터공학전공 (2학년 재학 중)
