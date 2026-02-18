@@ -1,13 +1,13 @@
+<h1 align="center">👩🏻‍💻 김서연</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&pause=1200&color=212121&center=true&vCenter=true&width=520&lines=👋+안녕하세요!+김서연입니다.;Welcome+to+Seoyeon's+GitHub!" />
+  부산대학교 정보컴퓨터공학부 컴퓨터공학전공 <br/>
+  AI & Software Engineering
 </p>
 
 ---
 
 ## 🎓 About Me
 - 🏫 부산대학교 정보컴퓨터공학부 컴퓨터공학전공
-- 💻 AI & Software Engineering에 관심이 많습니다.
-- 🚀 꾸준히 성장하는 개발자가 되고 있어요!
 
 ---
 
