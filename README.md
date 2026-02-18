@@ -1,7 +1,7 @@
 # 👋 안녕하세여읭!
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8C8DC&width=435&lines=PNU+Computer+Science;Frontend+Developer+Path;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8C8DC&width=435&lines=PNU+Computer+Science+Engineering" alt="Typing SVG" />
 </p>
 
 ### 🎓 About Me
@@ -10,15 +10,7 @@
 ### 🛠 Tech Stack
 > **언어 및 도구**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,figma,notion,react,github&perline=8" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=syeoniism&show_icons=true&theme=rose&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeoniism&layout=compact&theme=rose&hide_border=true" height="150" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,figma,notion,github&perline=8" />
 </p>
 
 ---
