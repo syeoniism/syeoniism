@@ -3,8 +3,6 @@
 ## 🎓 About Me
 - 🏫 부산대학교 정보컴퓨터공학부 컴퓨터공학전공
 
----
-
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,figma,notion&perline=6" />
