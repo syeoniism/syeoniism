@@ -1,79 +1,27 @@
-# hi, i'm seoyeon 👋
+# 👋 안녕하세여읭!
 
-Computer Science student at **Pusan National University**
-I like turning ideas into things that actually work.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8C8DC&width=435&lines=PNU+Computer+Science+Engineering" alt="Typing SVG" />
+</p>
 
-Currently exploring **software development, data, and machine learning** —
-and looking for the next fun thing to build. ˚₊‧
+### 🎓 About Me
+- 🏫 **부산대학교(PNU)** 정보컴퓨터공학부 컴퓨터공학전공
 
-<br>
+### 🛠 Tech Stack
+> **언어 및 도구**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,figma,notion,github&perline=8" />
+</p>
 
-## about me
+---
 
-* 🎓 Computer Science @ Pusan National University
-* 💻 Interested in building practical and interesting software
-* 🧩 Enjoy learning through projects and experiments
-* 🌱 Currently studying Database, Algorithms, and AI
-* 🎸 Sometimes playing bass when I'm not coding
-
-<br>
-
-## tech
-
-**Languages**
-
-`C` `C++` `Python` `Kotlin` `Java`
-
-**Development**
-
-`Android` `Firebase` `SQLite` `REST API`
-
-**Data & ML**
-
-`TensorFlow` `TensorFlow Lite` `Keras`
-
-**Tools**
-
-`Git` `GitHub` `Android Studio` `VS Code`
+### 💌 Contact
+<p align="left">
+  <a href="mailto:seoyeon5442@pusan.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://blog.naver.com/padoobaq"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="https://www.instagram.com/syeonismm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
 
 <br>
 
-## featured project
-
-### 📚 BOOKUS
-
-**Android reading club application with ML-based reading verification**
-
-An Android application for book exchange, reading verification,
-reading group management, and scheduling.
-
-`Kotlin` `Firebase` `TensorFlow Lite` `Google Maps API`
-
-**What I worked on**
-
-* Frontend development and UI implementation
-* Machine learning model development & integration
-* Firebase-based application features
-* External API integration
-
-→ **BOOKUS_android**
-
-<br>
-
-## currently
-
-```text
-learning    database · algorithms · AI
-building    small projects & experiments
-exploring   what I want to build next
-```
-
-<br>
-
-## contact
-
-**GitHub** · @syeoniism
-
-<br>
-
-<sub>always learning, occasionally debugging something that worked yesterday ᵕ̈</sub>
+<img src="https://komarev.com/ghpvc/?username=syeoniism&color=F8C8DC&style=flat-square&label=Profile+Views" />
