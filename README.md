@@ -1,7 +1,22 @@
 # 김서연 | Software Developer 👋
 
 사용자가 직접 경험하는 화면과 기능을 만드는 과정에 관심이 있습니다.  
-부산대학교 컴퓨터공학전공에서 **Android · Web · Machine Learning** 프로젝트를 개발하고 있습니다.
+부산대학교 컴퓨터공학전공에서 **Android · Web · Machine Learning · 컴퓨터 그래픽스** 프로젝트를 개발하고 있습니다.
+
+## Recent Projects
+
+### [유리 베기 (Glass Slash)](https://github.com/syeoniism/glass-slash) · 2026.11
+
+유리를 면적이 비슷한 두 조각으로 나눌수록 높은 점수를 얻는 2D 브라우저 게임입니다.
+
+- 다각형 절단과 면적 계산을 구현하고, Matter.js 물리 엔진과 보로노이 다이어그램을 이용해 유리 파편을 표현했습니다.
+- 모바일 터치 조작과 절단·파편 생성 과정을 살펴볼 수 있는 원리 보기 모드를 추가했습니다.
+
+[게임 플레이](https://syeoniism.github.io/glass-slash/)
+
+### [TECH WEEK Physical AI](https://github.com/syeoniism/PNU-TECHWEEK-260930) · 2026.09
+
+TurtleBot3가 사전 지도와 GPS 없이 실내를 탐색하는 Search & Rescue 프로젝트입니다. Webots에서 LiDAR와 카메라를 활용해 지도를 만들고, 목표물 두 개에 접근한 뒤 출발점으로 복귀하는 미션을 구현했습니다.
 
 ## Featured Projects
 
